@@ -2277,7 +2277,7 @@
         "properties": {
             "name": "Snowball",
             "base_chance": 10000,
-            "unobtainable": false,
+            "unobtainable": true,
             "native_biome": "AURORA",
             "biome_amplifier": [
                 "AURORA",
@@ -2291,7 +2291,7 @@
         "properties": {
             "name": "StarRider : Snowflake",
             "base_chance": 240000,
-            "unobtainable": false,
+            "unobtainable": true,
             "native_biome": "AURORA",
             "biome_amplifier": [
                 "AURORA",
@@ -2305,7 +2305,7 @@
         "properties": {
             "name": "Gingerbread",
             "base_chance": 3750000,
-            "unobtainable": false,
+            "unobtainable": true,
             "native_biome": "AURORA",
             "biome_amplifier": [
                 "AURORA",
@@ -2319,7 +2319,7 @@
         "properties": {
             "name": "Jack Frost",
             "base_chance": 4700000,
-            "unobtainable": false,
+            "unobtainable": true,
             "native_biome": "AURORA",
             "biome_amplifier": [
                 "AURORA",
@@ -2347,7 +2347,7 @@
         "properties": {
             "name": "Frostwood",
             "base_chance": 24500000,
-            "unobtainable": false,
+            "unobtainable": true,
             "native_biome": "AURORA",
             "biome_amplifier": [
                 "AURORA",
@@ -2361,7 +2361,7 @@
         "properties": {
             "name": "North Pole",
             "base_chance": 45000000,
-            "unobtainable": false,
+            "unobtainable": true,
             "native_biome": "AURORA",
             "biome_amplifier": [
                 "AURORA",
@@ -2375,7 +2375,7 @@
         "properties": {
             "name": "Sky Burst",
             "base_chance": 60000000,
-            "unobtainable": false,
+            "unobtainable": true,
             "native_biome": "AURORA",
             "biome_amplifier": [
                 "AURORA",
@@ -2389,7 +2389,7 @@
         "properties": {
             "name": "Encase",
             "base_chance": 230000000,
-            "unobtainable": false,
+            "unobtainable": true,
             "native_biome": "AURORA",
             "biome_amplifier": [
                 "AURORA",
@@ -2403,7 +2403,7 @@
         "properties": {
             "name": "Cryofang",
             "base_chance": 380000000,
-            "unobtainable": false,
+            "unobtainable": true,
             "native_biome": "AURORA",
             "biome_amplifier": [
                 "AURORA",
@@ -2417,7 +2417,7 @@
         "properties": {
             "name": "Northern",
             "base_chance": 405000000,
-            "unobtainable": false,
+            "unobtainable": true,
             "native_biome": "AURORA",
             "biome_amplifier": [
                 "AURORA",
@@ -2431,7 +2431,7 @@
         "properties": {
             "name": "Sovereign : Frostveil",
             "base_chance": 1000000000,
-            "unobtainable": false,
+            "unobtainable": true,
             "native_biome": "AURORA",
             "biome_amplifier": [
                 "AURORA",
@@ -2445,7 +2445,7 @@
         "properties": {
             "name": "Present",
             "base_chance": 0,
-            "unobtainable": false,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
@@ -2460,7 +2460,7 @@
         "properties": {
             "name": "Christmastide",
             "base_chance": 0,
-            "unobtainable": false,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
@@ -2475,7 +2475,7 @@
         "properties": {
             "name": "Skyforge",
             "base_chance": 0,
-            "unobtainable": false,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
@@ -2490,12 +2490,31 @@
         "properties": {
             "name": "Reina",
             "base_chance": 0,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
             ],
             "event_override": "Winter 2025",
             "rarity_override": "Season 4 Pass Reward (Tier 50)",
+            "rank": "unobtainable"
+        }
+    },
+    {
+        "identifier": "Cryogenic",
+        "properties": {
+            "name": "Cryogenic",
+            "base_chance": 250000,
+            "biome_exclusive": true,
+            "native_biome": "AURORA",
+            "fixed_rarity": true,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "AURORA",
+                1
+            ],
+            "event_override": "Winter 2025",
+            "rarity_override": "1 in 250,000 (unaffected by luck)",
             "rank": "unobtainable"
         }
     },

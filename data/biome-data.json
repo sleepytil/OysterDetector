@@ -192,10 +192,10 @@
             "primary_hex": "0x6764ac",
             "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/aurora.png"
         },
-        "unobtainable": false,
+        "unobtainable": true,
         "always_send": false,
         "ping_everyone": false,
-        "current_event": true,
+        "current_event": false,
         "rpc_compatible": true,
         "multiplier": 2
     },
