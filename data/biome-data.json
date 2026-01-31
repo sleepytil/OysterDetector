@@ -9,8 +9,7 @@
         "unobtainable": false,
         "always_send": false,
         "ping_everyone": false,
-        "rpc_compatible": true,
-        "multiplier": 1
+        "rpc_compatible": true
     },
     {
         "name": "WINDY",
@@ -22,8 +21,7 @@
         "unobtainable": false,
         "always_send": false,
         "ping_everyone": false,
-        "rpc_compatible": true,
-        "multiplier": 3
+        "rpc_compatible": true
     },
     {
         "name": "RAINY",
@@ -35,8 +33,7 @@
         "unobtainable": false,
         "always_send": false,
         "ping_everyone": false,
-        "rpc_compatible": true,
-        "multiplier": 4
+        "rpc_compatible": true
     },
     {
         "name": "SNOWY",
@@ -48,8 +45,7 @@
         "unobtainable": false,
         "always_send": false,
         "ping_everyone": false,
-        "rpc_compatible": true,
-        "multiplier": 3
+        "rpc_compatible": true
     },
     {
         "name": "SAND STORM",
@@ -61,8 +57,7 @@
         "unobtainable": false,
         "always_send": false,
         "ping_everyone": false,
-        "rpc_compatible": true,
-        "multiplier": 4
+        "rpc_compatible": true
     },
     {
         "name": "HELL",
@@ -74,8 +69,7 @@
         "unobtainable": false,
         "always_send": false,
         "ping_everyone": false,
-        "rpc_compatible": true,
-        "multiplier": 6
+        "rpc_compatible": true
     },
     {
         "name": "STARFALL",
@@ -87,8 +81,7 @@
         "unobtainable": false,
         "always_send": false,
         "ping_everyone": false,
-        "rpc_compatible": true,
-        "multiplier": 5
+        "rpc_compatible": true
     },
     {
         "name": "HEAVEN",
@@ -100,8 +93,7 @@
         "unobtainable": false,
         "always_send": false,
         "ping_everyone": false,
-        "rpc_compatible": true,
-        "multiplier": 5
+        "rpc_compatible": true
     },
     {
         "name": "CORRUPTION",
@@ -113,8 +105,7 @@
         "unobtainable": false,
         "always_send": false,
         "ping_everyone": false,
-        "rpc_compatible": true,
-        "multiplier": 5
+        "rpc_compatible": true
     },
     {
         "name": "NULL",
@@ -126,8 +117,7 @@
         "unobtainable": false,
         "always_send": false,
         "ping_everyone": false,
-        "rpc_compatible": true,
-        "multiplier": 1000
+        "rpc_compatible": true
     },
     {
         "name": "BLAZING SUN",
@@ -140,8 +130,7 @@
         "always_send": false,
         "ping_everyone": false,
         "current_event": false,
-        "rpc_compatible": true,
-        "multiplier": 1
+        "rpc_compatible": true
     },
     {
         "name": "GRAVEYARD",
@@ -154,8 +143,7 @@
         "always_send": false,
         "ping_everyone": false,
         "current_event": false,
-        "rpc_compatible": true,
-        "multiplier": 1
+        "rpc_compatible": true
     },
     {
         "name": "PUMPKIN MOON",
@@ -168,8 +156,7 @@
         "always_send": false,
         "ping_everyone": false,
         "current_event": false,
-        "rpc_compatible": true,
-        "multiplier": 1
+        "rpc_compatible": true
     },
     {
         "name": "BLOOD RAIN",
@@ -182,8 +169,7 @@
         "always_send": false,
         "ping_everyone": false,
         "current_event": false,
-        "rpc_compatible": true,
-        "multiplier": 1
+        "rpc_compatible": true
     },
     {
         "name": "AURORA",
@@ -196,8 +182,7 @@
         "always_send": false,
         "ping_everyone": false,
         "current_event": false,
-        "rpc_compatible": true,
-        "multiplier": 2
+        "rpc_compatible": true
     },
     {
         "name": "GLITCHED",
@@ -210,8 +195,7 @@
         "always_send": true,
         "ping_everyone": true,
         "snipe_protection": true,
-        "rpc_compatible": true,
-        "multiplier": 1
+        "rpc_compatible": true
     },
     {
         "name": "DREAMSPACE",
@@ -224,8 +208,7 @@
         "always_send": true,
         "ping_everyone": true,
         "snipe_protection": true,
-        "rpc_compatible": true,
-        "multiplier": 1
+        "rpc_compatible": true
     },
     {
         "name": "CYBERSPACE",
@@ -238,8 +221,7 @@
         "always_send": true,
         "ping_everyone": true,
         "snipe_protection": true,
-        "rpc_compatible": true,
-        "multiplier": 2
+        "rpc_compatible": true
     },
     {
         "name": "UNKNOWN",
