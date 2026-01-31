@@ -2427,10 +2427,80 @@
         }
     },
     {
+        "identifier": "EveNight",
+        "properties": {
+            "name": "Eve-Night",
+            "base_chance": 424000000,
+            "unobtainable": true,
+            "native_biome": "AURORA",
+            "biome_amplifier": [
+                "AURORA",
+                2
+            ],
+            "event_override": "Winter 2025"
+        }
+    },
+    {
+        "identifier": "Workshop",
+        "properties": {
+            "name": "Workshop",
+            "base_chance": 700000000,
+            "unobtainable": true,
+            "native_biome": "AURORA",
+            "biome_amplifier": [
+                "AURORA",
+                2
+            ],
+            "event_override": "Winter 2025"
+        }
+    },
+    {
+        "identifier": "Parol",
+        "properties": {
+            "name": "Parol",
+            "base_chance": 760000000,
+            "unobtainable": true,
+            "native_biome": "AURORA",
+            "biome_amplifier": [
+                "AURORA",
+                2
+            ],
+            "event_override": "Winter 2025"
+        }
+    },
+    {
         "identifier": "Sovereign_Frostveil",
         "properties": {
             "name": "Sovereign : Frostveil",
             "base_chance": 1000000000,
+            "unobtainable": true,
+            "native_biome": "AURORA",
+            "biome_amplifier": [
+                "AURORA",
+                2
+            ],
+            "event_override": "Winter 2025"
+        }
+    },
+    {
+        "identifier": "Winter Garden",
+        "properties": {
+            "name": "Winter Garden",
+            "base_chance": 1450012025,
+            "unobtainable": true,
+            "native_biome": "AURORA",
+            "biome_amplifier": [
+                "AURORA",
+                2
+            ],
+            "event_override": "Winter 2025"
+        }
+    },
+    {
+        "identifier": "Dream Traveler",
+        "properties": {
+            "name": "Dream Traveler",
+            "base_chance": 2025012025,
             "unobtainable": true,
             "native_biome": "AURORA",
             "biome_amplifier": [
