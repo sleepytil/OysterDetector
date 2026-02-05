@@ -1,6 +1,15 @@
-# ![Oyster Detector Logo](https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/oyster_32x28.png)  **Oyster Detector** 
+# ![Oyster Detector Logo](https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/oyster_32x28.png)  **Oyster Detector** 
 ### A semi-lightweight and highly customizable biome/aura/merchant tracker for Sol's RNG.
 <br>
+
+> [!CAUTION]
+> **Official Download Sources Only**
+>
+> Oyster Detector should **only** be downloaded from:
+> - The **official website** located [here](https://oysterdetector.vexsys.site)
+> - The **latest GitHub release** [here](https://github.com/vexsyx/OysterDetector/releases/latest)
+>
+> Builds from reuploads, mirrors, or third-party sites are **not supported** and may be outdated, broken, or unsafe.
 
 > [!WARNING]  
 > Any version under 1.1.6 now no longer works, if your macro has suddenly stopped working, this is why.<br>
@@ -8,24 +17,24 @@
 
 > [!IMPORTANT]
 > Oyster Detector does not require any external apps or programs to run.<br>
-> You only need the .exe file from the [latest release](https://github.com/vexthecoder/OysterDetector/releases/latest).
+> You only need the .exe file from the [latest release](https://github.com/vexsyx/OysterDetector/releases/latest).
 
 > [!NOTE]
 > It is recommended that you always update to the latest version of Oyster Detector.<br>
 > New versions include important bug fixes, optimizations, and new features.<br>
-> You can always download it from the [latest release](https://github.com/vexthecoder/OysterDetector/releases/latest).
+> You can always download it from the [latest release](https://github.com/vexsyx/OysterDetector/releases/latest).
 
 <br>
 
 <!--TRAFFIC-STATS-START-->
 <!--TRAFFIC-STATS-END-->
 
-[![Stars](https://img.shields.io/github/stars/vexthecoder/OysterDetector?style=for-the-badge&logo=macys&label=Stars&color=2d2d2d&labelColor=1a1a1a&logoColor=66ccff)](https://github.com/vexthecoder/OysterDetector/stargazers)
-[![Forks](https://img.shields.io/github/forks/vexthecoder/OysterDetector?style=for-the-badge&logo=git&label=Forks&color=2d2d2d&labelColor=1a1a1a&logoColor=66ccff)](https://github.com/vexthecoder/OysterDetector/network/members)
-[![Issues](https://img.shields.io/github/issues/vexthecoder/OysterDetector?style=for-the-badge&logo=gitbook&label=Issues&color=2d2d2d&labelColor=1a1a1a&logoColor=66ccff)](https://github.com/vexthecoder/OysterDetector/issues)
-[![License](https://img.shields.io/github/license/vexthecoder/OysterDetector?style=for-the-badge&logo=nextdns&label=License&color=2d2d2d&labelColor=1a1a1a&logoColor=66ccff)](https://github.com/vexthecoder/OysterDetector/blob/main/LICENSE)
-[![Release](https://img.shields.io/github/v/release/vexthecoder/OysterDetector?style=for-the-badge&logo=shieldsdotio&label=Release&color=2d2d2d&labelColor=1a1a1a&logoColor=66ccff)](https://github.com/vexthecoder/OysterDetector/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/vexthecoder/OysterDetector/total?style=for-the-badge&logo=googleanalytics&label=Downloads&color=2d2d2d&labelColor=1a1a1a&logoColor=66ccff)](https://github.com/vexthecoder/OysterDetector/releases)
+[![Stars](https://img.shields.io/github/stars/vexsyx/OysterDetector?style=for-the-badge&logo=macys&label=Stars&color=2d2d2d&labelColor=1a1a1a&logoColor=66ccff)](https://github.com/vexsyx/OysterDetector/stargazers)
+[![Forks](https://img.shields.io/github/forks/vexsyx/OysterDetector?style=for-the-badge&logo=git&label=Forks&color=2d2d2d&labelColor=1a1a1a&logoColor=66ccff)](https://github.com/vexsyx/OysterDetector/network/members)
+[![Issues](https://img.shields.io/github/issues/vexsyx/OysterDetector?style=for-the-badge&logo=gitbook&label=Issues&color=2d2d2d&labelColor=1a1a1a&logoColor=66ccff)](https://github.com/vexsyx/OysterDetector/issues)
+[![License](https://img.shields.io/github/license/vexsyx/OysterDetector?style=for-the-badge&logo=nextdns&label=License&color=2d2d2d&labelColor=1a1a1a&logoColor=66ccff)](https://github.com/vexsyx/OysterDetector/blob/main/LICENSE)
+[![Release](https://img.shields.io/github/v/release/vexsyx/OysterDetector?style=for-the-badge&logo=shieldsdotio&label=Release&color=2d2d2d&labelColor=1a1a1a&logoColor=66ccff)](https://github.com/vexsyx/OysterDetector/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/vexsyx/OysterDetector/total?style=for-the-badge&logo=googleanalytics&label=Downloads&color=2d2d2d&labelColor=1a1a1a&logoColor=66ccff)](https://github.com/vexsyx/OysterDetector/releases)
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-2d2d2d?style=for-the-badge&logo=python&logoColor=66ccff&labelColor=1a1a1a)](https://www.python.org/)
 [![Discord](https://img.shields.io/badge/Discord-Profile-2d2d2d?style=for-the-badge&logo=discord&logoColor=66ccff&labelColor=1a1a1a)](https://discord.com/users/1018875765565177976)
 
@@ -87,8 +96,8 @@
 1. Enable Merchant Detection in the Detector tab
 2. When prompted, allow Oyster Detector to configure Roblox FastFlags (Requires Fishstrap/Bloxstrap)
     - To manually configure FastFlags if Oyster Detector cannot, follow these guides:
-      - [Fishstrap FastFlags Guide](https://github.com/vexthecoder/OysterDetector/blob/main/fishstrap_fflags.md)
-      - [Bloxstrap FastFlags Guide](https://github.com/vexthecoder/OysterDetector/blob/main/bloxstrap_fflags.md)
+      - [Fishstrap FastFlags Guide](https://github.com/vexsyx/OysterDetector/blob/main/fishstrap_fflags.md)
+      - [Bloxstrap FastFlags Guide](https://github.com/vexsyx/OysterDetector/blob/main/bloxstrap_fflags.md)
 3. **Restart Roblox** for changes to take effect
 4. Configure merchant-specific settings:
    - Enable/disable Mari/Jester detection
@@ -160,8 +169,8 @@ A: Not currently supported - may cause rate limiting and spam
 
 ## **Credits & Acknowledgements**
 ### Development
-- **vexthecoder** - Creator and lead developer  
-  [GitHub](https://github.com/vexthecoder) | [Discord](https://discord.com/users/1018875765565177976)
+- **vexsyx** - Creator and lead developer  
+  [GitHub](https://github.com/vexsyx) | [Discord](https://discord.com/users/1018875765565177976)
 
 ### Special Thanks
 - **@RequiredStorage** - Lead tester
