@@ -2335,7 +2335,8 @@
                 "AURORA",
                 2
             ],
-            "event_override": "Winter 2025"
+            "event_override": "Winter 2025",
+            "rank": "unobtainable"
         }
     },
     {
@@ -2348,7 +2349,8 @@
                 "AURORA",
                 2
             ],
-            "event_override": "Winter 2025"
+            "event_override": "Winter 2025",
+            "rank": "unobtainable"
         }
     },
     {
@@ -2361,7 +2363,8 @@
                 "AURORA",
                 2
             ],
-            "event_override": "Winter 2025"
+            "event_override": "Winter 2025",
+            "rank": "unobtainable"
         }
     },
     {
@@ -2374,7 +2377,8 @@
                 "AURORA",
                 2
             ],
-            "event_override": "Winter 2025"
+            "event_override": "Winter 2025",
+            "rank": "unobtainable"
         }
     },
     {
@@ -2387,7 +2391,8 @@
                 "AURORA",
                 2
             ],
-            "event_override": "Winter 2025"
+            "event_override": "Winter 2025",
+            "rank": "unobtainable"
         }
     },
     {
@@ -2400,7 +2405,8 @@
                 "AURORA",
                 2
             ],
-            "event_override": "Winter 2025"
+            "event_override": "Winter 2025",
+            "rank": "unobtainable"
         }
     },
     {
@@ -2413,7 +2419,8 @@
                 "AURORA",
                 2
             ],
-            "event_override": "Winter 2025"
+            "event_override": "Winter 2025",
+            "rank": "unobtainable"
         }
     },
     {
@@ -2426,7 +2433,8 @@
                 "AURORA",
                 2
             ],
-            "event_override": "Winter 2025"
+            "event_override": "Winter 2025",
+            "rank": "unobtainable"
         }
     },
     {
@@ -2439,7 +2447,8 @@
                 "AURORA",
                 2
             ],
-            "event_override": "Winter 2025"
+            "event_override": "Winter 2025",
+            "rank": "unobtainable"
         }
     },
     {
@@ -2452,7 +2461,8 @@
                 "AURORA",
                 2
             ],
-            "event_override": "Winter 2025"
+            "event_override": "Winter 2025",
+            "rank": "unobtainable"
         }
     },
     {
@@ -2465,7 +2475,8 @@
                 "AURORA",
                 2
             ],
-            "event_override": "Winter 2025"
+            "event_override": "Winter 2025",
+            "rank": "unobtainable"
         }
     },
     {
@@ -2478,7 +2489,8 @@
                 "AURORA",
                 2
             ],
-            "event_override": "Winter 2025"
+            "event_override": "Winter 2025",
+            "rank": "unobtainable"
         }
     },
     {
@@ -2491,7 +2503,8 @@
                 "AURORA",
                 2
             ],
-            "event_override": "Winter 2025"
+            "event_override": "Winter 2025",
+            "rank": "unobtainable"
         }
     },
     {
@@ -2504,7 +2517,8 @@
                 "AURORA",
                 2
             ],
-            "event_override": "Winter 2025"
+            "event_override": "Winter 2025",
+            "rank": "unobtainable"
         }
     },
     {
@@ -2517,7 +2531,8 @@
                 "AURORA",
                 2
             ],
-            "event_override": "Winter 2025"
+            "event_override": "Winter 2025",
+            "rank": "unobtainable"
         }
     },
     {
@@ -2530,7 +2545,8 @@
                 "AURORA",
                 2
             ],
-            "event_override": "Winter 2025"
+            "event_override": "Winter 2025",
+            "rank": "unobtainable"
         }
     },
     {
@@ -2543,7 +2559,8 @@
                 "AURORA",
                 2
             ],
-            "event_override": "Winter 2025"
+            "event_override": "Winter 2025",
+            "rank": "unobtainable"
         }
     },
     {
@@ -2557,7 +2574,7 @@
                 1
             ],
             "event_override": "Winter 2025",
-            "rank": "mythic",
+            "rank": "unobtainable",
             "rarity_override": "1% Chance from the Roulette Wheel"
         }
     },
@@ -2572,7 +2589,7 @@
                 1
             ],
             "event_override": "Winter 2025",
-            "rank": "glorious",
+            "rank": "unobtainable",
             "rarity_override": "0.1% Chance from the Roulette Wheel"
         }
     },
@@ -2587,7 +2604,7 @@
                 1
             ],
             "event_override": "Winter 2025",
-            "rank": "exalted",
+            "rank": "unobtainable",
             "rarity_override": "0.2% Chance from the Roulette Wheel"
         }
     },
