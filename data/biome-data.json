@@ -225,13 +225,13 @@
     },
     {
         "name": "UNKNOWN",
-        "name_override": "UNKNOWN (Dev Biome)",
+        "display": "UNKNOWN (Dev Biome)",
         "visuals": {
             "primary_hex": "0x6B6B6B",
             "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/unknown_biome.png"
         },
         "unobtainable": false,
         "always_send": true,
-        "rpc_compatible": false
+        "rpc_compatible": true
     }
 ]
