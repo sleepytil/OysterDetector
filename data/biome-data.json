@@ -211,7 +211,8 @@
         "always_send": true,
         "ping_everyone": true,
         "snipe_protection": true,
-        "rpc_compatible": true
+        "rpc_compatible": true,
+        "rare_biome": true
     },
     {
         "name": "DREAMSPACE",
@@ -225,7 +226,8 @@
         "always_send": true,
         "ping_everyone": true,
         "snipe_protection": true,
-        "rpc_compatible": true
+        "rpc_compatible": true,
+        "rare_biome": true
     },
     {
         "name": "CYBERSPACE",
@@ -239,7 +241,8 @@
         "always_send": true,
         "ping_everyone": true,
         "snipe_protection": true,
-        "rpc_compatible": true
+        "rpc_compatible": true,
+        "rare_biome": true
     },
     {
         "name": "UNKNOWN",
@@ -251,6 +254,20 @@
         },
         "unobtainable": false,
         "always_send": true,
+        "dev_biome": true,
+        "rpc_compatible": true
+    },
+    {
+        "name": "The Citadel Of Orders",
+        "display": "The Citadel Of Orders",
+        "visuals": {
+            "primary_hex": "0xE38436",
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/the%20citadel%20of%20orders.png",
+            "asset_id": 107114559110957
+        },
+        "unobtainable": false,
+        "always_send": true,
+        "dev_biome": true,
         "rpc_compatible": true
     }
 ]
