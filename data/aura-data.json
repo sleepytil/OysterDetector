@@ -990,6 +990,17 @@
         }
     },
     {
+        "identifier": "Evanescent",
+        "properties": {
+            "name": "Evanescent",
+            "base_chance": 3360000,
+            "biome_amplifier": [
+                "RAINY",
+                4
+            ]
+        }
+    },
+    {
         "identifier": "Cosmos_Alice",
         "properties": {
             "name": "Cosmos : Alice",
