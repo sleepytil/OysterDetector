@@ -374,6 +374,17 @@
         }
     },
     {
+        "identifier": "Doodle",
+        "properties": {
+            "name": "Doodle",
+            "base_chance": 7500,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Quartz",
         "properties": {
             "name": "Quartz",
@@ -869,6 +880,17 @@
         }
     },
     {
+        "identifier": "Archmage",
+        "properties": {
+            "name": "Archmage",
+            "base_chance": 1766000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Player_Respawn",
         "properties": {
             "name": "Player : Respawn",
@@ -931,6 +953,17 @@
             "biome_amplifier": [
                 "CORRUPTION",
                 5
+            ]
+        }
+    },
+    {
+        "identifier": "Apatite",
+        "properties": {
+            "name": "Apatite",
+            "base_chance": 3133133,
+            "biome_amplifier": [
+                "None",
+                1
             ]
         }
     },
@@ -1252,6 +1285,17 @@
             "biome_amplifier": [
                 "STARFALL",
                 5
+            ]
+        }
+    },
+    {
+        "identifier": "Amethyst",
+        "properties": {
+            "name": "Amethyst",
+            "base_chance": 9333700,
+            "biome_amplifier": [
+                "None",
+                1
             ]
         }
     },
@@ -1893,6 +1937,17 @@
             "biome_amplifier": [
                 "SNOWY",
                 3
+            ]
+        }
+    },
+    {
+        "identifier": "Symphony_Bloomed",
+        "properties": {
+            "name": "Symphony : Bloomed",
+            "base_chance": 375000000,
+            "biome_amplifier": [
+                "None",
+                1
             ]
         }
     },
@@ -2698,6 +2753,21 @@
                 1
             ],
             "event_override": "Valentines Day 2024",
+            "rarity_override": "Quest Reward",
+            "rank": "unobtainable"
+        }
+    },
+    {
+        "identifier": "Velvet",
+        "properties": {
+            "name": "Velvet",
+            "base_chance": 0,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Valentines Day 2026",
             "rarity_override": "Quest Reward",
             "rank": "unobtainable"
         }
@@ -3780,6 +3850,19 @@
         }
     },
     {
+        "identifier": "Masterhand",
+        "properties": {
+            "name": "Masterhand",
+            "base_chance": 0,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "rarity_override": "Crafting",
+            "rank": "transcendent"
+        }
+    },
+    {
         "identifier": "Megaphone",
         "properties": {
             "name": "Megaphone",
@@ -3801,7 +3884,7 @@
                 "UNKNOWN",
                 1
             ],
-            "rarity_override": "1 in 530,000 (In ***[ MASTERMIND ]*** Biome)",
+            "rarity_override": "1 in 530,000 (In ***[ MASTERMIND ]***)",
             "rank": "unobtainable"
         }
     },
@@ -3814,7 +3897,46 @@
                 "UNKNOWN",
                 1
             ],
-            "rarity_override": "1 in 540,000 (In ***[ Another Realm ]*** Biome)",
+            "rarity_override": "1 in 540,000 (In ***[ Another Realm ]***)",
+            "rank": "unobtainable"
+        }
+    },
+    {
+        "identifier": "Edict",
+        "properties": {
+            "name": "Edict",
+            "base_chance": 0,
+            "biome_amplifier": [
+                "THE CITADEL OF ORDERS",
+                1
+            ],
+            "rarity_override": "1 in ??? (In ***[ THE CITADEL OF ORDERS ]***)",
+            "rank": "unobtainable"
+        }
+    },
+    {
+        "identifier": "Attorney",
+        "properties": {
+            "name": "Attorney",
+            "base_chance": 270000,
+            "biome_amplifier": [
+                "THE CITADEL OF ORDERS",
+                1
+            ],
+            "rarity_override": "1 in 270,000 (In ***[ THE CITADEL OF ORDERS ]***)",
+            "rank": "unobtainable"
+        }
+    },
+    {
+        "identifier": "Verdict",
+        "properties": {
+            "name": "Verdict",
+            "base_chance": 700000,
+            "biome_amplifier": [
+                "THE CITADEL OF ORDERS",
+                1
+            ],
+            "rarity_override": "1 in 700,000 (In ***[ THE CITADEL OF ORDERS ]***)",
             "rank": "unobtainable"
         }
     },
