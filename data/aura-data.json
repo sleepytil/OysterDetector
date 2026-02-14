@@ -858,6 +858,17 @@
         }
     },
     {
+        "identifier": "Symbiosis",
+        "properties": {
+            "name": "Symbiosis",
+            "base_chance": 1331201,
+            "biome_amplifier": [
+                "CORRUPTION",
+                5
+            ]
+        }
+    },
+    {
         "identifier": "Astral",
         "properties": {
             "name": "Astral",
