@@ -231,6 +231,17 @@
         }
     },
     {
+        "identifier": "Hydrogen",
+        "properties": {
+            "name": "Hydrogen",
+            "base_chance": 1111,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Atomic",
         "properties": {
             "name": "Atomic",
@@ -935,6 +946,17 @@
         }
     },
     {
+        "identifier": "Flutter_Bugify",
+        "properties": {
+            "name": "Flutter : Bugify",
+            "base_chance": 20000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "FLOWED",
         "properties": {
             "name": "Flowed",
@@ -1443,6 +1465,17 @@
         }
     },
     {
+        "identifier": "Plasma",
+        "properties": {
+            "name": "Plasma",
+            "base_chance": 20600000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Aviator",
         "properties": {
             "name": "Aviator",
@@ -1450,6 +1483,17 @@
             "biome_amplifier": [
                 "WINDY",
                 3
+            ]
+        }
+    },
+    {
+        "identifier": "Ruby_Brimstone",
+        "properties": {
+            "name": "Ruby : Brimstone",
+            "base_chance": 24060000,
+            "biome_amplifier": [
+                "None",
+                1
             ]
         }
     },
@@ -1718,6 +1762,17 @@
         }
     },
     {
+        "identifier": "Lily",
+        "properties": {
+            "name": "Lily",
+            "base_chance": 112000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Overture",
         "properties": {
             "name": "Overture",
@@ -1769,6 +1824,17 @@
             "biome_amplifier": [
                 "CORRUPTION",
                 5
+            ]
+        }
+    },
+    {
+        "identifier": "Raven_Plague",
+        "properties": {
+            "name": "Raven : Plague",
+            "base_chance": 20000000,
+            "biome_amplifier": [
+                "None",
+                1
             ]
         }
     },
@@ -2047,6 +2113,17 @@
             "biome_amplifier": [
                 "CYBERSPACE",
                 2
+            ]
+        }
+    },
+    {
+        "identifier": "Sailor_Admiral",
+        "properties": {
+            "name": "Sailor : Admiral",
+            "base_chance": 540000000,
+            "biome_amplifier": [
+                "RAINY",
+                4
             ]
         }
     },
@@ -3807,6 +3884,20 @@
         }
     },
     {
+        "identifier": "Blood Demon",
+        "properties": {
+            "name": "Blood Demon",
+            "base_chance": 0,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "rarity_override": "Season 5 Pass Reward (Tier 50)",
+            "rank": "unobtainable"
+        }
+    },
+    {
         "identifier": "Morning_Star",
         "properties": {
             "name": "Morning Star",
@@ -3872,9 +3963,9 @@
         }
     },
     {
-        "identifier": "Masterhand",
+        "identifier": "MasterHand",
         "properties": {
-            "name": "Masterhand",
+            "name": "Master Hand",
             "base_chance": 0,
             "biome_amplifier": [
                 "None",
@@ -4146,6 +4237,21 @@
             ],
             "rank": "challenged",
             "rarity_override": "1 in 1,000 (From Potion of the Dune)"
+        }
+    },
+    {
+        "identifier": "Fragments of the Crimson Moon",
+        "properties": {
+            "name": "Fragments of the Crimson Moon",
+            "base_chance": 1000,
+            "ping_rarity": 99999998,
+            "fixed_rarity": true,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "rank": "challenged",
+            "rarity_override": "1 in 1,000 (From Red Moon Potion)"
         }
     }
 ]
