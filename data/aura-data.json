@@ -949,7 +949,7 @@
         "identifier": "Flutter_Buggify",
         "properties": {
             "name": "Flutter : Buggify",
-            "base_chance": 20000000,
+            "base_chance": 2000000,
             "biome_amplifier": [
                 "None",
                 1
