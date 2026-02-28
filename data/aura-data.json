@@ -946,9 +946,9 @@
         }
     },
     {
-        "identifier": "Flutter_Bugify",
+        "identifier": "Flutter_Buggify",
         "properties": {
-            "name": "Flutter : Bugify",
+            "name": "Flutter : Buggify",
             "base_chance": 20000000,
             "biome_amplifier": [
                 "None",
@@ -4240,7 +4240,7 @@
         }
     },
     {
-        "identifier": "Fragments of the Crimson Moon",
+        "identifier": "redmoon",
         "properties": {
             "name": "Fragments of the Crimson Moon",
             "base_chance": 1000,
