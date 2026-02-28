@@ -3287,7 +3287,7 @@
                 "None",
                 1
             ],
-            "rarity_override": "Admin Exclusive\nHow did you even equip this?",
+            "rarity_override": "Admin Exclusive\nGG!",
             "rank": "unobtainable"
         }
     },
@@ -4023,8 +4023,9 @@
                 "THE CITADEL OF ORDERS",
                 1
             ],
-            "rarity_override": "1 in ??? (In ***[ THE CITADEL OF ORDERS ]***)",
-            "rank": "unobtainable"
+            "rarity_override": "Dev Exclusive\nGG!",
+            "rank": "unobtainable",
+            "unobtainable": true
         }
     },
     {
