@@ -2029,17 +2029,6 @@
         }
     },
     {
-        "identifier": "Symphony_Bloomed",
-        "properties": {
-            "name": "Symphony : Bloomed",
-            "base_chance": 375000000,
-            "biome_amplifier": [
-                "None",
-                1
-            ]
-        }
-    },
-    {
         "identifier": "AbyssalHunter",
         "properties": {
             "name": "Abyssal Hunter",
@@ -2854,6 +2843,19 @@
             "event_override": "Valentines Day 2024",
             "rarity_override": "Quest Reward",
             "rank": "unobtainable"
+        }
+    },
+    {
+        "identifier": "Symphony_Bloomed",
+        "properties": {
+            "name": "Symphony : Bloomed",
+            "base_chance": 375000000,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Valentines Day 2026"
         }
     },
     {
