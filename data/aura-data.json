@@ -4050,6 +4050,20 @@
         }
     },
     {
+        "identifier": "GodSlayer",
+        "properties": {
+            "name": "GodSlayer",
+            "base_chance": 0,
+            "biome_amplifier": [
+                "THE HYPERSPACE REALM",
+                1
+            ],
+            "rarity_override": "1 in Undetermined (In ***[ The Hyperspace Realm ]***)",
+            "rank": "unobtainable",
+            "unobtainable": true
+        }
+    },
+    {
         "identifier": "Edict",
         "properties": {
             "name": "Edict",
