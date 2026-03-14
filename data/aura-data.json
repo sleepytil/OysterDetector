@@ -990,6 +990,28 @@
         }
     },
     {
+        "identifier": "Orion",
+        "properties": {
+            "name": "Orion",
+            "base_chance": 3000000,
+            "biome_amplifier": [
+                "STARFALL",
+                5
+            ]
+        }
+    },
+    {
+        "identifier": "Gothic",
+        "properties": {
+            "name": "ゴシック",
+            "base_chance": 3000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Apatite",
         "properties": {
             "name": "Apatite",
@@ -1082,6 +1104,17 @@
         "properties": {
             "name": "Metabytes",
             "base_chance": 4000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Wraith",
+        "properties": {
+            "name": "Wraith",
+            "base_chance": 4100000,
             "biome_amplifier": [
                 "None",
                 1
@@ -3986,7 +4019,7 @@
                 "None",
                 1
             ],
-            "rarity_override": "1 in 5,000 (With YG Blessing)",
+            "rarity_override": "1 in 5,000 (With ***[ YG Blessing ]***)",
             "rank": "unobtainable"
         }
     },
@@ -4009,10 +4042,10 @@
             "name": "Prowler",
             "base_chance": 540000,
             "biome_amplifier": [
-                "UNKNOWN",
+                "THE HYPERSPACE REALM",
                 1
             ],
-            "rarity_override": "1 in 540,000 (In ***[ Another Realm ]***)",
+            "rarity_override": "1 in 540,000 (In ***[ The Hyperspace Realm ]***)",
             "rank": "unobtainable"
         }
     },
@@ -4039,7 +4072,7 @@
                 "THE CITADEL OF ORDERS",
                 1
             ],
-            "rarity_override": "1 in 270,000 (In ***[ THE CITADEL OF ORDERS ]***)",
+            "rarity_override": "1 in 270,000 (In ***[ The Citadel of Orders ]***)",
             "rank": "unobtainable"
         }
     },
@@ -4052,7 +4085,7 @@
                 "THE CITADEL OF ORDERS",
                 1
             ],
-            "rarity_override": "1 in 700,000 (In ***[ THE CITADEL OF ORDERS ]***)",
+            "rarity_override": "1 in 700,000 (In ***[ The Citadel of Orders ]***)",
             "rank": "unobtainable"
         }
     },
@@ -4194,7 +4227,7 @@
                 1
             ],
             "rank": "challenged_plus",
-            "rarity_override": "Forming a contract with **Eden**"
+            "rarity_override": "Forming a contract with ***Eden***"
         }
     },
     {
@@ -4209,7 +4242,7 @@
                 1
             ],
             "rank": "challenged",
-            "rarity_override": "1 in 100 (From Oblivion Potion)"
+            "rarity_override": "1 in 100 (From ***[ Oblivion Potion ]***)"
         }
     },
     {
@@ -4224,7 +4257,7 @@
                 1
             ],
             "rank": "challenged_plus",
-            "rarity_override": "1 in 2,000 (From Oblivion Potion)"
+            "rarity_override": "1 in 2,000 (From ***[ Oblivion Potion ]***)"
         }
     },
     {
@@ -4239,13 +4272,13 @@
                 1
             ],
             "rank": "challenged",
-            "rarity_override": "1 in 1,000 (From Potion of the Dune)"
+            "rarity_override": "1 in 1,000 (From ***[ Potion of the Dune ]***)"
         }
     },
     {
         "identifier": "redmoon",
         "properties": {
-            "name": "Fragments of the Crimson Moon",
+            "name": "赤月の破片",
             "base_chance": 1000,
             "ping_rarity": 99999998,
             "fixed_rarity": true,
@@ -4254,7 +4287,7 @@
                 1
             ],
             "rank": "challenged",
-            "rarity_override": "1 in 1,000 (From Red Moon Potion)"
+            "rarity_override": "1 in 1,000 (From ***[ Red Moon Potion ]***)"
         }
     }
 ]

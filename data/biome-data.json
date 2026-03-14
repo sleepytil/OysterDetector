@@ -269,5 +269,18 @@
         "always_send": true,
         "dev_biome": true,
         "rpc_compatible": true
+    },
+    {
+        "name": "THE HYPERSPACE REALM",
+        "display": "The Hyperspace Realm",
+        "visuals": {
+            "primary_hex": "0xE38436",
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/the%20hyperspace%20realm.png",
+            "asset_id": 107114559110957
+        },
+        "unobtainable": false,
+        "always_send": true,
+        "dev_biome": true,
+        "rpc_compatible": true
     }
 ]
