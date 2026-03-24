@@ -3919,9 +3919,9 @@
         }
     },
     {
-        "identifier": "Blood Demon",
+        "identifier": "RedFullMoon",
         "properties": {
-            "name": "Blood Demon",
+            "name": "Red Full Moon",
             "base_chance": 0,
             "unobtainable": false,
             "biome_amplifier": [
