@@ -204,7 +204,7 @@
         "display": "Eggland",
         "visuals": {
             "primary_hex": "0xADE64C",
-            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/unknown_biome.png",
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/eggland.png",
             "asset_id": 107114559110957
         },
         "unobtainable": false,
