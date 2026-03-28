@@ -1707,6 +1707,17 @@
         }
     },
     {
+        "identifier": "Starborn",
+        "properties": {
+            "name": "Starborn",
+            "base_chance": 72000000,
+            "biome_amplifier": [
+                "STARFALL",
+                5
+            ]
+        }
+    },
+    {
         "identifier": "Sailor_Flying Dutchman",
         "properties": {
             "name": "Sailor : Flying Dutchman",
