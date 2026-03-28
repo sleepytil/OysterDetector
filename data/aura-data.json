@@ -462,6 +462,17 @@
         }
     },
     {
+        "identifier": "Kawaii",
+        "properties": {
+            "name": "Kawaii",
+            "base_chance": 12300,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Rage_Heated",
         "properties": {
             "name": "Rage : Heated",
@@ -3295,6 +3306,118 @@
             ],
             "event_override": "Easter 2025",
             "rarity_override": "Event Reward",
+            "rank": "unobtainable"
+        }
+    },
+    {
+        "identifier": "Hatchwarden",
+        "properties": {
+            "name": "Hatchwarden",
+            "base_chance": 40000000,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Easter 2026",
+            "rank": "unobtainable"
+        }
+    },
+    {
+        "identifier": "Emporer",
+        "properties": {
+            "name": "Emporer",
+            "base_chance": 80000000,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Easter 2026",
+            "rank": "unobtainable"
+        }
+    },
+    {
+        "identifier": "Eggsistance",
+        "properties": {
+            "name": "Eggsistance",
+            "base_chance": 307777777,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Easter 2026",
+            "rank": "unobtainable"
+        }
+    },
+    {
+        "identifier": "Eggore",
+        "properties": {
+            "name": "Eggore",
+            "base_chance": 700000000,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Easter 2026",
+            "rank": "unobtainable"
+        }
+    },
+    {
+        "identifier": "Eostre",
+        "properties": {
+            "name": "Eostre",
+            "base_chance": 1000000000,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Easter 2026",
+            "rank": "unobtainable"
+        }
+    },
+    {
+        "identifier": "Aegis_Eggis",
+        "properties": {
+            "name": "Eggis",
+            "base_chance": 1150000000,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "CYBERSPACE",
+                2
+            ],
+            "event_override": "Easter 2026",
+            "rank": "unobtainable"
+        }
+    },
+    {
+        "identifier": "Y.O.L.K.E.G.G.",
+        "properties": {
+            "name": "Y.O.L.K.E.G.G.",
+            "base_chance": 1780808080,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Easter 2026",
+            "rank": "unobtainable"
+        }
+    },
+    {
+        "identifier": "Sky Festival",
+        "properties": {
+            "name": "Sky Festival",
+            "base_chance": 2000000000,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Easter 2026",
             "rank": "unobtainable"
         }
     },
