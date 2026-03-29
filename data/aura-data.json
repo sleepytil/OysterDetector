@@ -3335,9 +3335,9 @@
         }
     },
     {
-        "identifier": "Emporer",
+        "identifier": "Emperor",
         "properties": {
-            "name": "Emporer",
+            "name": "Emperor",
             "base_chance": 80000000,
             "unobtainable": false,
             "biome_amplifier": [
@@ -3353,6 +3353,20 @@
         "properties": {
             "name": "Eggsistance",
             "base_chance": 307777777,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Easter 2026",
+            "rank": "unobtainable"
+        }
+    },
+    {
+        "identifier": "REVIVE",
+        "properties": {
+            "name": "Revive",
+            "base_chance": 645000000,
             "unobtainable": false,
             "biome_amplifier": [
                 "None",
