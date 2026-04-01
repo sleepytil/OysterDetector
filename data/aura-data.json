@@ -2393,8 +2393,7 @@
                 "None",
                 1
             ],
-            "event_override": "April Fools 2025",
-            "rank": "unobtainable"
+            "event_override": "April Fools 2025/26"
         }
     },
     {
@@ -2407,8 +2406,7 @@
                 "None",
                 1
             ],
-            "event_override": "April Fools 2025",
-            "rank": "unobtainable"
+            "event_override": "April Fools 2025/26"
         }
     },
     {
@@ -2437,6 +2435,111 @@
             ],
             "event_override": "April Fools 2025",
             "rank": "unobtainable"
+        }
+    },
+    {
+        "identifier": "Burger",
+        "properties": {
+            "name": "Burger",
+            "base_chance": 676767,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "April Fools 2026",
+            "rarity_override": "676,767 kcal"
+        }
+    },
+    {
+        "identifier": "StarRider_yourdidit",
+        "properties": {
+            "name": "StarRider : yourdidit",
+            "base_chance": 1234567,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "STARFALL",
+                5
+            ],
+            "event_override": "April Fools 2026"
+        }
+    },
+    {
+        "identifier": "BOUNDED_KIDNAPPED",
+        "properties": {
+            "name": "Bounded : Kidnapped",
+            "base_chance": 2000000,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "April Fools 2026"
+        }
+    },
+    {
+        "identifier": "Aether_Dissapointment",
+        "properties": {
+            "name": "Aether : Dissapointment",
+            "base_chance": 33333330,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "HEAVEN",
+                5
+            ],
+            "event_override": "April Fools 2026"
+        }
+    },
+    {
+        "identifier": "bloatedexe",
+        "properties": {
+            "name": "bloated.exe",
+            "base_chance": 67676767,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "April Fools 2026"
+        }
+    },
+    {
+        "identifier": "Doodle_AbyssalHunter",
+        "properties": {
+            "name": "Doodle : AbyssalHunter",
+            "base_chance": 400000000,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "RAINY",
+                4
+            ],
+            "event_override": "April Fools 2026"
+        }
+    },
+    {
+        "identifier": "Lumenpool_Ramenpool",
+        "properties": {
+            "name": "Ramenpool",
+            "base_chance": 630000000,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "RAINY",
+                4
+            ],
+            "event_override": "April Fools 2026"
+        }
+    },
+    {
+        "identifier": "Equinox_youareanidiot",
+        "properties": {
+            "name": "Equinox : You Are An Idiot",
+            "base_chance": 2500000000,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "April Fools 2026"
         }
     },
     {
@@ -3330,8 +3433,7 @@
                 "None",
                 1
             ],
-            "event_override": "Easter 2026",
-            "rank": "unobtainable"
+            "event_override": "Easter 2026"
         }
     },
     {
@@ -3344,8 +3446,7 @@
                 "None",
                 1
             ],
-            "event_override": "Easter 2026",
-            "rank": "unobtainable"
+            "event_override": "Easter 2026"
         }
     },
     {
@@ -3358,8 +3459,7 @@
                 "None",
                 1
             ],
-            "event_override": "Easter 2026",
-            "rank": "unobtainable"
+            "event_override": "Easter 2026"
         }
     },
     {
@@ -3372,8 +3472,7 @@
                 "None",
                 1
             ],
-            "event_override": "Easter 2026",
-            "rank": "unobtainable"
+            "event_override": "Easter 2026"
         }
     },
     {
@@ -3386,8 +3485,7 @@
                 "None",
                 1
             ],
-            "event_override": "Easter 2026",
-            "rank": "unobtainable"
+            "event_override": "Easter 2026"
         }
     },
     {
@@ -3400,8 +3498,7 @@
                 "None",
                 1
             ],
-            "event_override": "Easter 2026",
-            "rank": "unobtainable"
+            "event_override": "Easter 2026"
         }
     },
     {
@@ -3414,8 +3511,7 @@
                 "CYBERSPACE",
                 2
             ],
-            "event_override": "Easter 2026",
-            "rank": "unobtainable"
+            "event_override": "Easter 2026"
         }
     },
     {
@@ -3428,8 +3524,7 @@
                 "None",
                 1
             ],
-            "event_override": "Easter 2026",
-            "rank": "unobtainable"
+            "event_override": "Easter 2026"
         }
     },
     {
@@ -3442,8 +3537,7 @@
                 "None",
                 1
             ],
-            "event_override": "Easter 2026",
-            "rank": "unobtainable"
+            "event_override": "Easter 2026"
         }
     },
     {
