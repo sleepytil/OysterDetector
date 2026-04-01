@@ -2388,7 +2388,7 @@
         "properties": {
             "name": "Pukeko",
             "base_chance": 3198,
-            "unobtainable": true,
+            "unobtainable": false,
             "biome_amplifier": [
                 "None",
                 1
@@ -2401,7 +2401,7 @@
         "properties": {
             "name": ":Flushed: : Troll",
             "base_chance": 1000000,
-            "unobtainable": true,
+            "unobtainable": false,
             "biome_amplifier": [
                 "None",
                 1
