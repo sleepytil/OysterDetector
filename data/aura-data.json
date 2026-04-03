@@ -2478,9 +2478,9 @@
         }
     },
     {
-        "identifier": "Aether_Dissapointment",
+        "identifier": "Aether_Disappointment",
         "properties": {
-            "name": "Aether : Dissapointment",
+            "name": "Aether : Disappointment",
             "base_chance": 33333330,
             "unobtainable": false,
             "biome_amplifier": [
