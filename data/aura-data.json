@@ -2478,6 +2478,19 @@
         }
     },
     {
+        "identifier": "VerySmallSewageRat",
+        "properties": {
+            "name": "Very Small Sewage Rat That's About 3.082 Studs Long",
+            "base_chance": 20070629,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "April Fools 2026"
+        }
+    },
+    {
         "identifier": "Aether_Disappointment",
         "properties": {
             "name": "Aether : Disappointment",
