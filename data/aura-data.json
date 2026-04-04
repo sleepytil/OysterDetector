@@ -2491,6 +2491,19 @@
         }
     },
     {
+        "identifier": "pukeko_Jumping",
+        "properties": {
+            "name": "Pukeko : Jumping",
+            "base_chance": 31980000,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "April Fools 2026"
+        }
+    },
+    {
         "identifier": "Aether_Disappointment",
         "properties": {
             "name": "Aether : Disappointment",
