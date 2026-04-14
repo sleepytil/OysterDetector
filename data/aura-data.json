@@ -1718,6 +1718,17 @@
         }
     },
     {
+        "identifier": "Melodic_Serenade",
+        "properties": {
+            "name": "Melodic : Serenade",
+            "base_chance": 77000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Sailor_Flying Dutchman",
         "properties": {
             "name": "Sailor : Flying Dutchman",
@@ -2080,6 +2091,17 @@
             "biome_amplifier": [
                 "SNOWY",
                 3
+            ]
+        }
+    },
+    {
+        "identifier": "Celestial_Eclipse",
+        "properties": {
+            "name": "Celestial : Eclipse",
+            "base_chance": 384400000,
+            "biome_amplifier": [
+                "None",
+                1
             ]
         }
     },
@@ -2530,6 +2552,19 @@
         }
     },
     {
+        "identifier": "Impeached_imcrine",
+        "properties": {
+            "name": "Impeached : imcrine",
+            "base_chance": 250000000,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "April Fools 2026"
+        }
+    },
+    {
         "identifier": "Doodle_AbyssalHunter",
         "properties": {
             "name": "Doodle : AbyssalHunter",
@@ -2543,6 +2578,19 @@
         }
     },
     {
+        "identifier": "Surfer_Symphony",
+        "properties": {
+            "name": "Surfer : Symphony",
+            "base_chance": 600000000,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "April Fools 2026"
+        }
+    },
+    {
         "identifier": "Lumenpool_Ramenpool",
         "properties": {
             "name": "Ramenpool",
@@ -2551,6 +2599,45 @@
             "biome_amplifier": [
                 "RAINY",
                 4
+            ],
+            "event_override": "April Fools 2026"
+        }
+    },
+    {
+        "identifier": "Workshop_System",
+        "properties": {
+            "name": "Workshop : System",
+            "base_chance": 650000000,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "April Fools 2026"
+        }
+    },
+    {
+        "identifier": "afoolsexperience",
+        "properties": {
+            "name": "A fool's experience",
+            "base_chance": 1000000000,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "April Fools 2026"
+        }
+    },
+    {
+        "identifier": "pukeko_god",
+        "properties": {
+            "name": "P.U.K.E.K.O.G.O.D.",
+            "base_chance": 1000000000,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "None",
+                1
             ],
             "event_override": "April Fools 2026"
         }
@@ -3554,7 +3641,7 @@
         }
     },
     {
-        "identifier": "Sky Festival",
+        "identifier": "skyfestival",
         "properties": {
             "name": "Sky Festival",
             "base_chance": 2000000000,
@@ -3564,6 +3651,90 @@
                 1
             ],
             "event_override": "Easter 2026"
+        }
+    },
+    {
+        "identifier": "Egger",
+        "properties": {
+            "name": "Egger",
+            "base_chance": 0,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Easter 2026",
+            "rarity_override": "Lime's Easter Shop | 7.5k Easter Points"
+        }
+    },
+    {
+        "identifier": "easterisles",
+        "properties": {
+            "name": "easter isles",
+            "base_chance": 0,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Easter 2026",
+            "rarity_override": "Lime's Easter Shop | 32k Easter Points"
+        }
+    },
+    {
+        "identifier": "Aeroquest",
+        "properties": {
+            "name": "Aeroquest",
+            "base_chance": 0,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Easter 2026",
+            "rarity_override": "Lime's Easter Shop | 60k Easter Points"
+        }
+    },
+    {
+        "identifier": "Rabbit Invasion",
+        "properties": {
+            "name": "Rabbit Invasion",
+            "base_chance": 0,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Easter 2026",
+            "rarity_override": "Lime's Easter Shop | 82.5k Easter Points"
+        }
+    },
+    {
+        "identifier": "zilch",
+        "properties": {
+            "name": "zilch.",
+            "base_chance": 0,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Easter 2026",
+            "rarity_override": "Season VI Pass Reward (Tier 50)"
+        }
+    },
+    {
+        "identifier": "Scavenger",
+        "properties": {
+            "name": "Scavenger",
+            "base_chance": 0,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Easter 2026",
+            "rarity_override": "Quest Reward"
         }
     },
     {
@@ -3688,7 +3859,7 @@
                 1
             ],
             "event_override": "Summer 2025",
-            "rarity_override": "Lime's Summer Shop",
+            "rarity_override": "Lime's Summer Shop | 500 Clams",
             "unobtainable": true,
             "rank": "unobtainable"
         }
@@ -3703,7 +3874,7 @@
                 1
             ],
             "event_override": "Summer 2025",
-            "rarity_override": "Lime's Summer Shop",
+            "rarity_override": "Lime's Summer Shop | 200 Pearl Blue Clams",
             "unobtainable": true,
             "rank": "unobtainable"
         }
@@ -3748,7 +3919,7 @@
                 1
             ],
             "event_override": "Summer 2025",
-            "rarity_override": "Lime's Summer Shop",
+            "rarity_override": "Lime's Summer Shop | 750 Clams",
             "unobtainable": true,
             "rank": "unobtainable"
         }
