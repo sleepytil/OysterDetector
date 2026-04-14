@@ -3707,7 +3707,7 @@
         }
     },
     {
-        "identifier": "Rabbit Invasion",
+        "identifier": "RabbitInvasion",
         "properties": {
             "name": "Rabbit Invasion",
             "base_chance": 0,
