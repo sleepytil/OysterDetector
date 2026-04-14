@@ -3731,7 +3731,7 @@
                 1
             ],
             "event_override": "Easter 2026",
-            "rarity_override": "Season VI Pass Reward (Tier 50)"
+            "rarity_override": "Season 6 Pass Reward (Tier 50)"
         }
     },
     {
@@ -4373,7 +4373,7 @@
         "properties": {
             "name": "血の悪魔",
             "base_chance": 0,
-            "unobtainable": false,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
