@@ -1740,6 +1740,17 @@
         }
     },
     {
+        "identifier": "Aquaria",
+        "properties": {
+            "name": "Aquaria",
+            "base_chance": 80000000,
+            "biome_amplifier": [
+                "RAINY",
+                4
+            ]
+        }
+    },
+    {
         "identifier": "Carriage",
         "properties": {
             "name": "Carriage",
