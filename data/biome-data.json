@@ -4,7 +4,7 @@
         "display": "Normal",
         "visuals": {
             "primary_hex": "0xC8DED7",
-            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/normal.png",
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/normal.png",
             "asset_id": 80690294537387
         },
         "unobtainable": false,
@@ -17,7 +17,7 @@
         "display": "Windy",
         "visuals": {
             "primary_hex": "0x90F6FF",
-            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/windy.png",
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/windy.png",
             "asset_id": 138169499467564
         },
         "unobtainable": false,
@@ -30,7 +30,7 @@
         "display": "Rainy",
         "visuals": {
             "primary_hex": "0x4284FF",
-            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/rainy.png",
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/rainy.png",
             "asset_id": 137992545432987
         },
         "unobtainable": false,
@@ -43,7 +43,7 @@
         "display": "Snowy",
         "visuals": {
             "primary_hex": "0xA6FFFF",
-            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/snowy.png",
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/snowy.png",
             "asset_id": 109912975653138
         },
         "unobtainable": false,
@@ -56,7 +56,7 @@
         "display": "Sand Storm",
         "visuals": {
             "primary_hex": "0xFFCB81",
-            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/sand%20storm.png",
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/sand%20storm.png",
             "asset_id": 102180669654341
         },
         "unobtainable": false,
@@ -69,7 +69,7 @@
         "display": "Hell",
         "visuals": {
             "primary_hex": "0x7E1617",
-            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/hell.png",
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/hell.png",
             "asset_id": 89721298978404
         },
         "unobtainable": false,
@@ -82,7 +82,7 @@
         "display": "Starfall",
         "visuals": {
             "primary_hex": "0x6085FF",
-            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/starfall.png",
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/starfall.png",
             "asset_id": 110087292131274
         },
         "unobtainable": false,
@@ -95,7 +95,7 @@
         "display": "Heaven",
         "visuals": {
             "primary_hex": "0xD6A22D",
-            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/heaven.png",
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/heaven.png",
             "asset_id": 100160513248702
         },
         "unobtainable": false,
@@ -108,7 +108,7 @@
         "display": "Corruption",
         "visuals": {
             "primary_hex": "0x9143FF",
-            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/corruption.png",
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/corruption.png",
             "asset_id": 137622939436355
         },
         "unobtainable": false,
@@ -121,7 +121,7 @@
         "display": "Null",
         "visuals": {
             "primary_hex": "0x3B3B3B",
-            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/null.png",
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/null.png",
             "asset_id": 120277135407020
         },
         "unobtainable": false,
@@ -134,7 +134,7 @@
         "display": "Blazing Sun",
         "visuals": {
             "primary_hex": "0xFFFA5C",
-            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/blazing%20sun.png",
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/blazing%20sun.png",
             "asset_id": 70580600109957
         },
         "unobtainable": true,
@@ -148,7 +148,7 @@
         "display": "Graveyard",
         "visuals": {
             "primary_hex": "0x4f4f4f",
-            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/graveyard.png",
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/graveyard.png",
             "asset_id": 95757644199077
         },
         "unobtainable": true,
@@ -162,7 +162,7 @@
         "display": "Pumpkin Moon",
         "visuals": {
             "primary_hex": "0xad4815",
-            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/pumpkin%20moon.png",
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/pumpkin%20moon.png",
             "asset_id": 99498743098710
         },
         "unobtainable": true,
@@ -176,7 +176,7 @@
         "display": "Blood Rain",
         "visuals": {
             "primary_hex": "0x590f0f",
-            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/blood%20rain.png",
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/blood%20rain.png",
             "asset_id": 135005466099885
         },
         "unobtainable": true,
@@ -190,7 +190,7 @@
         "display": "Aurora",
         "visuals": {
             "primary_hex": "0x6764ac",
-            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/aurora.png",
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/aurora.png",
             "asset_id": 78768081402761
         },
         "unobtainable": true,
@@ -204,7 +204,7 @@
         "display": "Eggland",
         "visuals": {
             "primary_hex": "0xADE64C",
-            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/eggland.png",
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/eggland.png",
             "asset_id": 107114559110957
         },
         "unobtainable": false,
@@ -218,7 +218,7 @@
         "display": "Glitched",
         "visuals": {
             "primary_hex": "0x209e2a",
-            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/glitched.png",
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/glitched.png",
             "asset_id": 92180140049616
         },
         "unobtainable": false,
@@ -233,7 +233,7 @@
         "display": "Dreamspace",
         "visuals": {
             "primary_hex": "0xEA9DDA",
-            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/dreamspace.png",
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/dreamspace.png",
             "asset_id": 124768988619166
         },
         "unobtainable": false,
@@ -248,7 +248,7 @@
         "display": "Cyberspace",
         "visuals": {
             "primary_hex": "0x1C3266",
-            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/cyberspace.png",
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/cyberspace.png",
             "asset_id": 89000537898277
         },
         "unobtainable": false,
@@ -263,7 +263,7 @@
         "display": "UNKNOWN (Dev Biome)",
         "visuals": {
             "primary_hex": "0x6B6B6B",
-            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/unknown_biome.png",
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/unknown_biome.png",
             "asset_id": 107114559110957
         },
         "unobtainable": false,
@@ -276,7 +276,7 @@
         "display": "The Citadel Of Orders",
         "visuals": {
             "primary_hex": "0xE38436",
-            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/the%20citadel%20of%20orders.png",
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/the%20citadel%20of%20orders.png",
             "asset_id": 107114559110957
         },
         "unobtainable": false,
@@ -289,7 +289,7 @@
         "display": "The Hyperspace Realm",
         "visuals": {
             "primary_hex": "0xE38436",
-            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/the%20hyperspace%20realm.png",
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/the%20hyperspace%20realm.png",
             "asset_id": 107114559110957
         },
         "unobtainable": false,
