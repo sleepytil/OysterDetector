@@ -1,4 +1,4 @@
 {
     "easter_event_that_spawns_eggs": true,
-    "show_live_stats": true
+    "show_live_stats": false
 }
