@@ -88,6 +88,17 @@
         }
     },
     {
+        "identifier": "Dizzy",
+        "properties": {
+            "name": "Dizzy",
+            "base_chance": 123,
+            "biome_amplifier": [                                            
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Rage",
         "properties": {
             "name": "Rage",
@@ -2468,6 +2479,20 @@
             ],
             "event_override": "April Fools 2025",
             "rank": "unobtainable"
+        }
+    },
+    {
+        "identifier": "Astral_Astrald",
+        "properties": {
+            "name": "Astrald",
+            "base_chance": 267000,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "April Fools 2025/26",
+            "rarity_override": "1 in 267,000 (During ***[ Astrald Abuse ]***)"
         }
     },
     {
