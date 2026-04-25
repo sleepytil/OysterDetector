@@ -1872,6 +1872,17 @@
         }
     },
     {
+        "identifier": "Gravitational_PointZero",
+        "properties": {
+            "name": "Point • Zero",
+            "base_chance": 120000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Overture",
         "properties": {
             "name": "Overture",
@@ -1912,6 +1923,17 @@
             "biome_amplifier": [
                 "HELL",
                 6
+            ]
+        }
+    },
+    {
+        "identifier": "Projection",
+        "properties": {
+            "name": "Projection",
+            "base_chance": 197000000,
+            "biome_amplifier": [
+                "SINGULARITY",
+                1
             ]
         }
     },
