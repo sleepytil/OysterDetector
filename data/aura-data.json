@@ -1531,6 +1531,17 @@
         }
     },
     {
+        "identifier": "Oculus",
+        "properties": {
+            "name": "Oculus",
+            "base_chance": 23233540,
+            "biome_amplifier": [
+                "HEAVEN",
+                5
+            ]
+        }
+    },
+    {
         "identifier": "Aviator",
         "properties": {
             "name": "Aviator",
@@ -1945,6 +1956,17 @@
             "biome_amplifier": [
                 "None",
                 1
+            ]
+        }
+    },
+    {
+        "identifier": "Virtual_Memory",
+        "properties": {
+            "name": "Virtual : Memory",
+            "base_chance": 232232232,
+            "biome_amplifier": [
+                "CYBERSPACE",
+                2
             ]
         }
     },
@@ -4486,6 +4508,19 @@
         }
     },
     {
+        "identifier": "Cell_Asteroids",
+        "properties": {
+            "name": "Cell : Asteroids",
+            "base_chance": 0,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "rarity_override": "Crafting",
+            "rank": "unobtainable"
+        }
+    },
+    {
         "identifier": "Megaphone",
         "properties": {
             "name": "Megaphone",
@@ -4701,6 +4736,21 @@
             ],
             "biome_amplifier": [
                 "DREAMSPACE",
+                1
+            ],
+            "rank": "challenged_plus"
+        }
+    },
+    {
+        "identifier": "ASTRAIOS",
+        "properties": {
+            "name": "Astraios",
+            "base_chance": 1750000000,
+            "biome_whitelist": [
+                "SINGULARITY"
+            ],
+            "biome_amplifier": [
+                "SINGULARITY",
                 1
             ],
             "rank": "challenged_plus"
