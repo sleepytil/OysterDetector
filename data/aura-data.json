@@ -1877,8 +1877,8 @@
             "name": "Point • Zero",
             "base_chance": 120000000,
             "biome_amplifier": [
-                "None",
-                1
+                "SINGULARITY",
+                5
             ]
         }
     },
@@ -1923,17 +1923,6 @@
             "biome_amplifier": [
                 "HELL",
                 6
-            ]
-        }
-    },
-    {
-        "identifier": "Projection",
-        "properties": {
-            "name": "Projection",
-            "base_chance": 197000000,
-            "biome_amplifier": [
-                "SINGULARITY",
-                1
             ]
         }
     },
@@ -4478,6 +4467,19 @@
         }
     },
     {
+        "identifier": "Cell_Asteroids",
+        "properties": {
+            "name": "Cell : Asteroids",
+            "base_chance": 0,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "rarity_override": "Crafting",
+            "rank": "mythic"
+        }
+    },
+    {
         "identifier": "Matrix_Steampunk",
         "properties": {
             "name": "Matrix : Steampunk",
@@ -4527,19 +4529,6 @@
             ],
             "rarity_override": "Crafting",
             "rank": "transcendent"
-        }
-    },
-    {
-        "identifier": "Cell_Asteroids",
-        "properties": {
-            "name": "Cell : Asteroids",
-            "base_chance": 0,
-            "biome_amplifier": [
-                "None",
-                1
-            ],
-            "rarity_override": "Crafting",
-            "rank": "unobtainable"
         }
     },
     {
@@ -4761,6 +4750,111 @@
                 1
             ],
             "rank": "challenged_plus"
+        }
+    },
+    {
+        "identifier": "Pleiades",
+        "properties": {
+            "name": "Pleiades",
+            "base_chance": 65358,
+            "biome_whitelist": [
+                "SINGULARITY"
+            ],
+            "biome_amplifier": [
+                "SINGULARITY",
+                1
+            ],
+            "rank": "mythic"
+        }
+    },
+    {
+        "identifier": "Pulsar",
+        "properties": {
+            "name": "Pulsar",
+            "base_chance": 83345,
+            "biome_whitelist": [
+                "SINGULARITY"
+            ],
+            "biome_amplifier": [
+                "SINGULARITY",
+                1
+            ],
+            "rank": "mythic"
+        }
+    },
+    {
+        "identifier": "Constella",
+        "properties": {
+            "name": "Constella",
+            "base_chance": 86988,
+            "biome_whitelist": [
+                "SINGULARITY"
+            ],
+            "biome_amplifier": [
+                "SINGULARITY",
+                1
+            ],
+            "rank": "mythic"
+        }
+    },
+    {
+        "identifier": "Vega",
+        "properties": {
+            "name": "Vega",
+            "base_chance": 2580000,
+            "biome_whitelist": [
+                "SINGULARITY"
+            ],
+            "biome_amplifier": [
+                "SINGULARITY",
+                1
+            ],
+            "rank": "challenged"
+        }
+    },
+    {
+        "identifier": "Astronaut",
+        "properties": {
+            "name": "Astronaut",
+            "base_chance": 6117196,
+            "biome_whitelist": [
+                "SINGULARITY"
+            ],
+            "biome_amplifier": [
+                "SINGULARITY",
+                1
+            ],
+            "rank": "challenged"
+        }
+    },
+    {
+        "identifier": "Centurion",
+        "properties": {
+            "name": "Centurion",
+            "base_chance": 25000000,
+            "biome_whitelist": [
+                "SINGULARITY"
+            ],
+            "biome_amplifier": [
+                "SINGULARITY",
+                1
+            ],
+            "rank": "challenged"
+        }
+    },
+    {
+        "identifier": "Projection",
+        "properties": {
+            "name": "Projection",
+            "base_chance": 197000000,
+            "biome_whitelist": [
+                "SINGULARITY"
+            ],
+            "biome_amplifier": [
+                "SINGULARITY",
+                1
+            ],
+            "rank": "challenged"
         }
     },
     {
