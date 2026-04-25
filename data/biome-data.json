@@ -259,6 +259,21 @@
         "rare_biome": true
     },
     {
+        "name": "SINGULARITY",
+        "display": "Singularity",
+        "visuals": {
+            "primary_hex": "0xD47111",
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/singularity.png",
+            "asset_id": 107114559110957
+        },
+        "unobtainable": false,
+        "always_send": true,
+        "ping_everyone": false,
+        "snipe_protection": true,
+        "rpc_compatible": true,
+        "rare_biome": true
+    },
+    {
         "name": "UNKNOWN",
         "display": "UNKNOWN (Dev Biome)",
         "visuals": {
